@@ -4,17 +4,11 @@
 
 **Computer Science & Engineering** — Rajshahi University of Engineering & Technology (RUET), Bangladesh
 
----
-
 I write TypeScript and Go. I build tools that solve real problems — privacy-first web apps, developer tooling, and utilities that make life easier.
-
----
 
 ## Tech
 
 `TypeScript` `Go` `React` `Node.js` `JavaScript` `Python`
-
----
 
 ## Projects
 
