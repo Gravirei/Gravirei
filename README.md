@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gravirei</h1>
-<h3 align="center">CS student at RUET · TypeScript & Go · building tools that solve real problems</h3>
+<h3 align="center">Code code code, feel the code, love the code .. Happy coding.. 😊<br>Yes ! I'm still learning as a student who has so much curiosity & passion about coding 😄</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Gravirei&label=Profile%20views&color=0e75b6&style=flat" alt="Gravirei" /> </p>
 
