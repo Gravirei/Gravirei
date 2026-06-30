@@ -1,24 +1,39 @@
-# Gravirei
+<h1 align="center">Hi 👋, I'm Gravirei</h1>
+<h3 align="center">CS student at RUET · TypeScript & Go · building tools that solve real problems</h3>
 
-**Computer Science & Engineering** — Rajshahi University of Engineering & Technology (RUET), Bangladesh
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gravirei&label=Profile%20views&color=0e75b6&style=flat" alt="Gravirei" /> </p>
 
-I write TypeScript and Go. I build tools that solve real problems — privacy-first web apps, developer tooling, and utilities that make life easier.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gravirei" alt="Gravirei" /></a> </p>
 
-## Tech
+- 🔭 I'm currently hacking on **REIS** — roadmap execution system
+- 🌱 I'm learning **System Design** & **Distributed Systems**
+- 💬 Ask me about **TypeScript, Go, React, Rust**
+- 📫 Reach me on **X: @Gravirei_reis**
+- ⚡ Fun fact **TypeScript is my superpower**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://x.com/Gravirei_reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gravirei_reis" height="30" width="40" /></a>
+<a href="https://github.com/Gravirei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Gravirei" height="30" width="40" /></a>
 </p>
 
-## What I'm hacking on
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" alt="rust" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+</p>
 
-I'm keeping my personal projects private at the moment since my progress on them is slow going. I'll definitely share them when I have MVPs ready, for now they're just for my own learning and enjoyment :)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gravirei&show_icons=true&locale=en&layout=compact" alt="Gravirei" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gravirei&show_icons=true&locale=en" alt="Gravirei" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gravirei&" alt="Gravirei" /></p>
 
 ## Projects
 
