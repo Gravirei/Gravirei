@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Gravirei</h1>
 <h3 align="center">Code code code, feel the code, love the code .. Happy coding.. 😊<br>Yes ! I'm still learning as a student who has so much curiosity & passion about coding 😄</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gravirei&label=Profile%20views&color=0e75b6&style=flat" alt="Gravirei" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gravirei&label=Profile%20views&color=0e75b6&style=flat" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gravirei" alt="Gravirei" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Gravirei" /></a> </p>
 
 - 🔭 I'm currently hacking on **REIS** — roadmap execution system
 - 🌱 I'm learning **System Design** & **Distributed Systems**
@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/Gravirei_reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Gravirei_reis" height="30" width="40" /></a>
-<a href="https://github.com/Gravirei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Gravirei" height="30" width="40" /></a>
+<a href="https://x.com/Gravirei_reis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
+<a href="https://github.com/Gravirei" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -30,11 +30,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gravirei&show_icons=true&locale=en&layout=compact" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Gravirei&show_icons=true&locale=en" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Gravirei&" /></p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gravirei&theme=github-dark&hide_border=true" width="100%"/>
 
 ## Projects
 
