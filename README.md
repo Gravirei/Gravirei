@@ -8,6 +8,10 @@ I write TypeScript and Go. I build tools that solve real problems — privacy-fi
 
 `TypeScript` `Go` `React` `Node.js` `JavaScript` `Python`
 
+## What I'm hacking on
+
+I'm keeping my personal projects private at the moment since my progress on them is slow going. I'll definitely share them when I have MVPs ready, for now they're just for my own learning and enjoyment :)
+
 ## Projects
 
 - 🎯 **[HabitFlow](https://github.com/Gravirei/HabitFlow)** — Privacy-focused habit tracker built with React + TypeScript. All data stays on-device.
