@@ -4,8 +4,6 @@
 
 **Computer Science & Engineering** — Rajshahi University of Engineering & Technology (RUET), Bangladesh
 
-[Email](mailto:your.email@example.com) • [LinkedIn](https://linkedin.com/in/your-linkedin) • [GitHub](https://github.com/Gravirei)
-
 ---
 
 I write TypeScript and Go. I build tools that solve real problems — privacy-first web apps, developer tooling, and utilities that make life easier.
@@ -20,29 +18,8 @@ I write TypeScript and Go. I build tools that solve real problems — privacy-fi
 
 ## Projects
 
-**HabitFlow** — Privacy-focused habit tracker. All data stays on-device.  
-*React, TypeScript* · [Repo](https://github.com/Gravirei/HabitFlow)
-
-**REIS** — Roadmap Execution & Implementation System. Plan, build, and ship with end-to-end tracking.  
-*TypeScript* · [Repo](https://github.com/Gravirei/reis)
-
-**Smart Image Compression** — Browser-based image optimizer with zero uploads. All processing is local.  
-*TypeScript* · [Repo](https://github.com/Gravirei/Smart-Image-Compression-Expert)
-
-**timer** — A `sleep` command with real-time progress output.  
-*Go* · [Repo](https://github.com/Gravirei/timer)
-
-**freeze** — Generate styled screenshots of code and terminal output.  
-*Go* · [Repo](https://github.com/Gravirei/freeze)
-
----
-
-## Currently
-
-- Building **REIS** — roadmap execution for developers
-- Learning system design and distributed systems
-- Reading tech and fiction, alternating between them
-
----
-
-📫 Reach me at **your.email@example.com**
+- 🎯 **[HabitFlow](https://github.com/Gravirei/HabitFlow)** — Privacy-focused habit tracker built with React + TypeScript. All data stays on-device.
+- 🧠 **[REIS](https://github.com/Gravirei/reis)** — Roadmap Execution & Implementation System. Plan, build, and ship with end-to-end tracking.
+- 🖼️ **[Smart Image Compression](https://github.com/Gravirei/Smart-Image-Compression-Expert)** — Browser-based image optimizer with TypeScript. All processing is local — zero uploads.
+- ⏱️ **[timer](https://github.com/Gravirei/timer)** — A `sleep` command with real-time progress output, written in Go.
+- 📸 **[freeze](https://github.com/Gravirei/freeze)** — Generate styled screenshots of code and terminal output.
