@@ -1,6 +1,4 @@
-![visitors](https://komarev.com/ghpvc/?username=Gravirei&label=Profile+Views&color=666666&style=flat)
-
-# Rony
+# Gravirei
 
 **Computer Science & Engineering** — Rajshahi University of Engineering & Technology (RUET), Bangladesh
 
