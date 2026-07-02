@@ -35,5 +35,10 @@
 - 🎯 **[HabitFlow](https://github.com/Gravirei/HabitFlow)** — Privacy-focused habit tracker built with React + TypeScript. All data stays on-device.
 - 🧠 **[REIS](https://github.com/Gravirei/reis)** — Roadmap Execution & Implementation System. Plan, build, and ship with end-to-end tracking.
 - 🖼️ **[Smart Image Compression](https://github.com/Gravirei/Smart-Image-Compression-Expert)** — Browser-based image optimizer with TypeScript. All processing is local — zero uploads.
+- 🚦 **[project_trafficSim](https://github.com/Gravirei/project_trafficSim)** — 3rd semester traffic simulation built with TypeScript.
+- 🤖 **[openclaude](https://github.com/Gravirei/openclaude)** — Cross-platform AI tooling. Runs anywhere, uses anything.
+- 🌐 **[new-api](https://github.com/Gravirei/new-api)** — Unified AI model hub for aggregation & distribution. OpenAI/Claude/Gemini-compatible gateway.
+- 📄 **[htmlparser2](https://github.com/Gravirei/htmlparser2)** — The fast & forgiving HTML and XML parser.
+- 🔗 **[node](https://github.com/Gravirei/node)** — Decentralized git node with Ed25519 identity, HTTP signatures, and libp2p gossip.
 - ⏱️ **[timer](https://github.com/Gravirei/timer)** — A `sleep` command with real-time progress output, written in Go.
 - 📸 **[freeze](https://github.com/Gravirei/freeze)** — Generate styled screenshots of code and terminal output.
